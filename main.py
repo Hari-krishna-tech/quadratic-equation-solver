@@ -3,7 +3,7 @@ class QuadraticEquationSolver:
   def __init__(self, eqn1, eqn2):
     self.eqn1 = eqn1
     self.eqn2 = eqn2
-
+#hi
   def solve(self):
     co_efficients = self.__co_efficients()
 
